@@ -1,2 +1,3 @@
-# postgreSQL-cheatsheet
-A postgreSQL cheat sheet with all commands and commented descriptions. 
+# Cheat Sheets
+A collection of cheatsheets from various technologies.
+- practiceDB.sql => PostgreSQL Cheatsheet
