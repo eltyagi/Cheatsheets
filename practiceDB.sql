@@ -1,5 +1,11 @@
+/*Access*/
+psql -U username -p Password
+
 /*Create a new DB*/
 CREATE DATABASE myDB
+
+/*List all databases*/
+\l
 
 /*Delete DB*/
 DROP DATABASE myDB
