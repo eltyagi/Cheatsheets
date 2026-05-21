@@ -5,3 +5,4 @@ A collection of cheatsheets from various technologies.
 - numpy-intro.ipynd => Numpy Cheatsheet
 - matplotlib-intro.ipynb => Matplotlib Cheatsheet
 - intro-python.ipynb => Python Cheatsheet
+- intro-llm-basics.ipynb => Introduction to Large Language Models (LLMs) - Foundational Concepts
